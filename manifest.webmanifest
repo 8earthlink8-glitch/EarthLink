@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Creator's Dark Console — Simulation",
+  "short_name": "Dark Console",
+  "description": "Stage 1 interactive simulation — no real connected models or monitoring",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08131c",
+  "theme_color": "#08131c",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
